@@ -1,0 +1,6 @@
+transformers>=4.30
+torch>=2.0
+torchvision>=0.15
+pymupdf
+ultralytics
+opencv-python>=4.8
