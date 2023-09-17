@@ -1,0 +1,8 @@
+path: /home/harzad/projects/pnid-extractor/data
+train: 'train_data'
+val: 'val_data'
+ 
+# class names
+names: 
+  0: 'transmitter'
+  1: 'gauge'
